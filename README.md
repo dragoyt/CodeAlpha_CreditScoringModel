@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/credit-scoring-model.git
+   git clone https://github.com/dragoyt/CodeAlpha_CreditScoringModel
    cd credit-scoring-model
    ```
 
